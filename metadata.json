@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-23T12:20:09.890Z",
+  "generatedAt": "2026-05-23T12:44:36.989Z",
   "resourceSlug": "correlation-ids-playbook-dotnet",
   "title": "Correlation IDs package (HTTP + jobs)",
   "description": "A correlation ID contract plus copy/paste ASP.NET Core middleware and an HttpClient handler so correlation survives HTTP and background job boundaries and incidents become one-query diagnosable.",
   "category": ".NET",
   "pillar": "",
+  "access": "free",
+  "sourcePublicPath": "/ship/correlation-ids-in-dotnet-trace-one-request-across-services-and-jobs.zip",
+  "includedRepoFiles": [
+    "resources/correlation-ids-in-dotnet-trace-one-request-across-services-and-jobs.zip"
+  ],
   "canonicalResourceUrl": "https://matrixtrak.com/resources/correlation-ids-playbook-dotnet",
   "primaryPostSlugs": [
     "correlation-ids-in-dotnet-trace-one-request-across-services-and-jobs"

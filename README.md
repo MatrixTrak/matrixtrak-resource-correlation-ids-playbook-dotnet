@@ -17,6 +17,14 @@ It is designed for quick implementation support, community sharing, and stable v
 
 A correlation ID contract plus copy/paste ASP.NET Core middleware and an HttpClient handler so correlation survives HTTP and background job boundaries and incidents become one-query diagnosable.
 
+## Repository Contents
+
+- `resources/` contains shipped files copied from MatrixTrak public ship assets when available
+- `docs/post-mapping.md` maps this resource to related blog posts
+- `docs/resource-files.md` lists included files and source mapping
+- Included shipped files:
+  - resources/correlation-ids-in-dotnet-trace-one-request-across-services-and-jobs.zip
+
 ## Who This Is For
 
 - Engineers handling production incidents and reliability gaps
