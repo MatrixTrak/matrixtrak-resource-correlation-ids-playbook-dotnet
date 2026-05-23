@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T11:14:28.319Z",
+  "generatedAt": "2026-05-23T12:20:09.890Z",
   "resourceSlug": "correlation-ids-playbook-dotnet",
   "title": "Correlation IDs package (HTTP + jobs)",
   "description": "A correlation ID contract plus copy/paste ASP.NET Core middleware and an HttpClient handler so correlation survives HTTP and background job boundaries and incidents become one-query diagnosable.",
